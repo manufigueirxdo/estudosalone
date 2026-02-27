@@ -41,4 +41,4 @@ Nesta primeira fase, foquei em **Lógica de Programação**, **Casting de Tipos*
 * [ ] Versionamento contínuo de projetos reais no GitHub.
 
 ---
-**Camila Figueiredo** *Rumo à Alta Renda na Tecnologia.*
+**Camile Manuelly Figueiredo** *Rumo à Alta Renda na Tecnologia.*
