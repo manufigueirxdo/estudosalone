@@ -9,5 +9,3 @@ roi = ((lucroliquido / totalinvestido) * 100)
 print(f"O seu faturamento foi de R${faturamentototal}")
 print(f"o seu lucro real foi de R${lucroliquido}")
 print(f"e o seu ROI foi de {roi}%")
-
-      
